@@ -1,4 +1,27 @@
 [
-  {"state": "KY", "city": "Bowling Green", "institution": "Western Kentucky University"},
-  {"state": "KY", "city": "Louisville", "institution": "University of Louisville"}
+  {
+    "city": "Lexington",
+    "state": "KY",
+    "institution": "University of Kentucky"
+  },
+  {
+    "city": "Lexington",
+    "state": "KY",
+    "institution": "University of Kentucky"
+  },
+  {
+    "city": "Louisville",
+    "state": "KY",
+    "institution": "University of Louisville"
+  },
+  {
+    "city": "Richmond",
+    "state": "KY",
+    "institution": "Eastern Kentucky University"
+  },
+  {
+    "city": "Morehead",
+    "state": "KY",
+    "institution": "Morehead State University"
+  }
 ]
